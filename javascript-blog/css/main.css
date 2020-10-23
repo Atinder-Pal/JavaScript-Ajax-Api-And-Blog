@@ -1,0 +1,28 @@
+header{
+    width: 70vw;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul,form{
+    
+    width: 70vw;   
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 5px solid blue; */    
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+}
+
+.blog-creation-datetime{
+    font-size: small;
+    /* font-style: italic; */
+}
+
+button{
+    margin-right: 4px;
+    margin-left: 10px;
+}
